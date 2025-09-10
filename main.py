@@ -5,7 +5,7 @@ import altair as alt
 # ----------------------------
 # Load trained model
 # ----------------------------
-model = joblib.load("predict_new_campaign_.pkl")
+model = joblib.load("predict_new_campaign.pkl")
 
 st.set_page_config(page_title="Predict campaign success", layout="wide")
 
