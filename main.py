@@ -1,12 +1,5 @@
 import streamlit as st
 import pandas as pd
- 
-st.write("""
-# App Marketing
-Hello *world!*
-""")
-import streamlit as st
-import pandas as pd
 import joblib
 import altair as alt
 
