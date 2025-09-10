@@ -1,5 +1,7 @@
-
-st.set_page_config(page_title="Predict campaign success", layout="wide")
-
-
-
+import streamlit as st
+import pandas as pd
+ 
+st.write("""
+# My first app
+Hello *world!*
+""")
